@@ -8,6 +8,6 @@ This repository contains MATLAB code for simulating the walking motion of a huma
 
 2. **WalkingManSimulation.m**: MATLAB function for animating the walking motion of the humanoid robot based on the computed LQR control gains and principles similar to those of an inverted pendulum.
 
-##Visualization 
+## Visualization 
 
 ![WalkingManSimulation](https://github.com/Amenephous/Walking_man_simulation/assets/48127920/3d55b544-bb5e-4cd7-aa92-2aa011b5ccc5)
